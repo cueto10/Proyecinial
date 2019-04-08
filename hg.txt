@@ -1,0 +1,8 @@
+si no tengo un compilador o un interprete mi archivo de programación no sirve.
+como se dividen las aplicaciones
+las aplicaciones de tipo escritorio que son las que se descargan y se tienen en un equipo (pc, cel).
+aplicaciones tipo web que contienen un URL (facebook, twiter, instagran, gmail).
+aplicaciones moviles (celular).
+Nota: no es necesario utilizar un proveedor como xampp, lamp, mamp para realizar la programación.
+una dirección IP siempre va a tener un nombre de dominio y viceversa.
+cuando un sotfware se puede visualizar en cualquier sistema operativo a este se le conoce como multiplataforma.
